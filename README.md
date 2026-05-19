@@ -108,7 +108,7 @@ Le logiciel fonctionne selon une architecture modulaire :
 ### 💎 Fonction Premium bloquée
 ![12](screenshots/12-premium-feature-locked.png)
 
-### 🔓 Licence activée
+### 🔓 Licence non activée
 ![13](screenshots/13-license-activated-status.png)
 
 ---
