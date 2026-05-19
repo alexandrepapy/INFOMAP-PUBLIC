@@ -1,0 +1,17 @@
+{
+  "app_name": "INFOMAP AIRBOX CONTROL CENTER PRO",
+  "version": "1.0.0-beta",
+  "build": "2026.05.19",
+  "status": "development",
+  "type": "desktop-windows",
+  "author": "INFOMAP SERVICES RDC",
+  "developer": "Ir MWABALI Alexandre Papy",
+  "license": "private-public-demo",
+  "features": {
+    "monitoring": true,
+    "network_analysis": true,
+    "eco_mode": true,
+    "restore_mode": true,
+    "premium_system": true
+  }
+}
