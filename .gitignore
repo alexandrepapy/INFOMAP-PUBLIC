@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build
+build/
+dist/
+
+# Logs
+*.log
+
+# Data sensible
+.env
+data/*.json
+
+# OS
+.DS_Store
+Thumbs.db
