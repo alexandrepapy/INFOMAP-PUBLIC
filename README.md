@@ -163,7 +163,7 @@ Certaines fonctionnalités sont réservées :
 ## 🧑‍💻 Développeur
 
 **Ir MWABALI Alexandre Papy**  
-Développeur Desktop & Réseaux  
+Développeur Full Stark  & Réseaux  
 Spécialiste systèmes Windows & solutions digitales  
 
 ---
